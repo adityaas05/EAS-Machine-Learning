@@ -15,9 +15,6 @@ library(dplyr)
 # Cross Validation
 library(rsample)
 
-# Machine Learning
-## Naive Bayes
-library(e1071)
 ## LSTM
 library(keras)
 
